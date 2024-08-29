@@ -1,16 +1,16 @@
-## Hi there 👋
+I'm **Lukas Låås**, a passionate software developer from Sweden. I love building things that make a difference, whether it's a simple tool or a complex application.
 
-<!--
-**lukas-laas/lukas-laas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on verious JavaScript projects.
+- 🌱 I’m currently learning Next.js.
+- 📫 How to reach me: post an issue in this repo.
+- ⚡ Fun fact: I play bass guitar in a band.
 
-Here are some ideas to get you started:
+## 📈 GitHub Stats:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukas-laas&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lukas-laas&layout=compact&theme=default)
+
+## 📫 Let's Connect:
+
+- [Portfolio](https://lukas-laas.vercel.app)
