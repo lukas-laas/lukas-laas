@@ -11,4 +11,4 @@ I'm **Lukas Låås**, a passionate software developer from Sweden. I love buildi
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lukas-laas&layout=compact&theme=default)
 
-## [Portfolio](https://lukas-laas.vercel.app)
+## [Portfolio](https://lukaslaas.se)
