@@ -7,8 +7,8 @@ I'm **Lukas Låås**, a passionate software developer from Sweden. I love buildi
 
 ## GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukas-laas&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api?username=lukas-laas&theme=dark&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lukas-laas&layout=compact&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=lukas-laas&theme=dark&show_icons=true)
 
 ## [Portfolio](https://lukaslaas.se)
