@@ -11,6 +11,6 @@ I'm **Lukas Låås**, a passionate software developer from Sweden. I love buildi
 
 ![Github Stats](https://github-readme-stats-six-hazel-96.vercel.app/api/?username=lukas-laas)
 
-![Top Langs](https://github-readme-stats-six-hazel-96.vercel.app/api/top-langs/?username=lukas-laas)
+![Top Langs](https://github-readme-stats-six-hazel-96.vercel.app/api/top-langs/?username=lukas-laas&layout=pie)
 
 ## [Portfolio](https://lukaslaas.se)
