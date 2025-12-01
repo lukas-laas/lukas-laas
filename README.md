@@ -9,8 +9,8 @@ I'm **Lukas Låås**, a passionate software developer from Sweden. I love buildi
 
 //Many repos are private and not reflected here..
 
-![Top Langs](https://github-readme-stats.vercel.app/api?username=lukas-laas&theme=dark&show_icons=true)
+![Github Stats](https://github-readme-stats-six-hazel-96.vercel.app/api/?username=lukas-laas)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=lukas-laas&theme=dark&show_icons=true)
+![Top Langs](https://github-readme-stats-six-hazel-96.vercel.app/api/top-langs/?username=lukas-laas)
 
 ## [Portfolio](https://lukaslaas.se)
